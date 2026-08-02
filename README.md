@@ -1,4 +1,4 @@
 # Aristotle
 A Political Science Chatbot
-<b/r>
+<br>
 Author: Sana
